@@ -13,3 +13,9 @@ printf("The mean square error is %f\n",mse)
 Similar = less MSE
 Different = more MSE
 Must be same width and height
+
+https://www.youtube.com/watch?v=g-XMwOFmawM
+https://github.com/pkamath2/picbreeder-tf-node
+https://github.com/iBrushC/modern-evolutionary-art?tab=readme-ov-file
+
+Compositional Pattern Producing Networks (CPPN)
