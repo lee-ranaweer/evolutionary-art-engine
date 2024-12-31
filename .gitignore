@@ -1,2 +1,4 @@
-# .gitignore
-# opencv
+.gitignore
+.venv
+opencv
+references.md
